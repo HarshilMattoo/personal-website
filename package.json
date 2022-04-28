@@ -1,7 +1,7 @@
 {
   "name": "personal-website",
   "version": "0.1.0",
-  "homepage": "https://harshilmattoo.github.io/personal-website",
+  "homepage": "https://www.harshilmattoo.com/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
